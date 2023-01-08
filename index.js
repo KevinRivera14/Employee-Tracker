@@ -1,5 +1,5 @@
 
- const cTable = require('console.table');
+const cTable = require('console.table');
 const inquirer = require('inquirer');
 const mysql = require('mysql');
 const commaNumber = require('comma-number');
